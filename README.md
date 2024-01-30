@@ -33,14 +33,14 @@ input. The project also involves creating a web interface for the search engine.
     ```bash
     docker-compose down
     ```
-
+<!-- 
 # License
 
 This project is free and unencumbered software released into the public domain.
 
 You can copy, modify, distribute, and perform the work, even for commercial purposes, without asking for permission.
 
-See [LICENSE](LICENSE) for more details.
+See [LICENSE](LICENSE) for more details. -->
 
 
 
