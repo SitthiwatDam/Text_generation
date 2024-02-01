@@ -37,7 +37,7 @@ input. The project also involves creating a web interface for the search engine.
 
 ## Web application with Flask
 This web application is built using Flask, a popular web framework in Python. Leveraging the power of Flask, the application integrates a pre-trained LSTM-LM (Long Short-Term Memory Language Model) from the training phase. The saved model is imported and combined with additional functions within the application. 
-![Web application interface](/A2_Text_generation/a2.png)
+![Web application interface](./a2.png)
 
 
 
