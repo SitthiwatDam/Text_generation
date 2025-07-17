@@ -1,4 +1,4 @@
-# A2 Text Generation
+# Text Generation
 
 This project is part of building a LSTM-LM (Long Short-Term Memory Language Model) using a text dataset of Harry Potter. The
 objective is to train a model that can generate coherent and contextually relevant text based on a given
